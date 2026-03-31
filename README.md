@@ -1,8 +1,6 @@
 Hi, I'm Anuruddh 👋
 Full-Stack Developer | Building Data Infrastructure for the AI Era
 
-I specialize in bridging the gap between unstructured enterprise data and high-fidelity AI systems. Currently, I am the lead architect of Prime, a B2B Data Engine designed to refine messy documents into model-ready intelligence.
-
 🛠️ The Project: Prime (v1.1)
 An Enterprise-Grade Data Refinery & Ingestion Engine
 
