@@ -1,8 +1,8 @@
 Hi, I'm Anuruddh 👋
 Full-Stack Developer | 
 
-Tech-Stack => JS | Node.js | python | React-Native | Expo router | flask and restful APIs | Authentication Systems | Google Cloud Platform (GCP) | Express.js | 
-               C | Java | Data Structure and algorithms | Scikit-Learn | Data Visualization | Data Processing
+Tech-Stack => JS |  Node.js |  python   |  React-Native  |  Expo router  |  flask and restful APIs  |  Authentication Systems  |  Google Cloud Platform (GCP)  |  Express.js 
+ C  |  Java  |  Data Structure and algorithms  |  Scikit-Learn  |  Data Visualization  |  Data Processing
 
                
 🛠️ The Project: Prime (v1.1)
