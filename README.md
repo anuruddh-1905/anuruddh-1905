@@ -1,12 +1,16 @@
 Hi, I'm Anuruddh 👋
-Full-Stack Developer | Building Data Infrastructure for the AI Era
+Full-Stack Developer | 
 
+Tech-Stack => JS | Node.js | python | React-Native | Expo router | flask and restful APIs | Authentication Systems | Google Cloud Platform (GCP) | Express.js | 
+               C | Java | Data Structure and algorithms | Scikit-Learn | Data Visualization | Data Processing
+
+               
 🛠️ The Project: Prime (v1.1)
 An Enterprise-Grade Data Refinery & Ingestion Engine
 
-Prime is evolving from a simple infographic tool into a robust B2B Software suite. It automates the extraction, normalization, and structuring of "dark data" (PDFs, Excel, CSV) for RAG-based LLM pipelines.
+Prime is evolving from a simple infographic tool. It automates the extraction, normalization, and structuring of "dark data" (PDFs, Excel, CSV).
 
-Engine: Python-driven extraction and data-cleansing logic.
+Engine: Python-driven extraction logic.
 
 Orchestration: Node.js API Gateway for seamless data flow.
 
@@ -21,9 +25,6 @@ Languages: Python (Data Processing), TypeScript/JavaScript (Application Logic).
 
 Frameworks: React Native, Node.js, FastAPI/Flask.
 
-AI/Data: RAG Pipelines, Data Normalization, Feature Extraction.
-
-Currently Exploring:
 
 Vector Databases (Pinecone/Weaviate) for scalable indexing.
 
